@@ -1,2 +1,2 @@
 # AI-S2024-Project
-Artificial Inteligence Course Project
+Artificial Intelligence Course Project
