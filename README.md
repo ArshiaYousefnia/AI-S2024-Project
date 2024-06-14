@@ -5,8 +5,8 @@ Phase 1,NLP: persian movie genre prediction task
 
 Team members:
 
-Amir Kooshky
+Amir Kooshky 400109673
 
-Arshia Yousefnia
+Arshia Yousefnia 401110415
 
-Mohsen Ghasemi
+Mohsen Ghasemi 400105166
